@@ -36,7 +36,7 @@ else
 	
 //ini secript buat lanjut jut apalah gitu
     var timeout,interval
-    var threshold = 2000;
+    var threshold = 6000;
     var secondsleft=threshold;
 
     window.onload = function()
